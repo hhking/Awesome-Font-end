@@ -1,7 +1,7 @@
 # Awesome Font-end
 Awesome Font-end 😀 记录一些值得关注和收藏的前端领域内容
 
-不定时更新，欢迎 star、watch！😀
+不定时更新，欢迎 star、watch！😀
 
 
 ## Tools
