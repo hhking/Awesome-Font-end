@@ -24,6 +24,7 @@ Awesome Font-end 😀 记录一些值得关注和收藏的前端领域内容
 
 - [A Beginner's Guide to JavaScript's Prototype](https://tylermcginnis.com/beginners-guide-to-javascript-prototype/)
 - [HTML 网页的 head 元素 指南（英文）](https://gethead.info/)：网页的 <head> 元素可以放置很多东西，本文列出了其中一些主要的内容，可以当作参考手册。
+- [project-guidelines](https://github.com/elsewhencode/project-guidelines) JavaScript工程项目的一系列最佳实践策略
 
 
 
