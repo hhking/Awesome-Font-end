@@ -1,8 +1,6 @@
 # Awesome Font-end
 Awesome Font-end 😀 记录一些值得关注和收藏的前端领域内容
 
-不定时更新，欢迎 star、watch！😀
-
 
 ## Tools
 
@@ -15,7 +13,7 @@ Awesome Font-end 😀 记录一些值得关注和收藏的前端领域内容
 - [Carbon](https://carbon.now.sh/?bg=rgba(171%2C%20184%2C%20195%2C%201)&t=seti&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=48px&ph=32px&ln=false&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&ts=false) 将代码保存成图片的开源服务，可以用来上传到社交媒体。
 - [百度脑图](http://naotu.baidu.com/)
 - [ProcessOn](https://www.processon.com/) 在线作图工具
-
+- [JSON Generator](https://www.json-generator.com/) 在线定制生成 JSON 格式的数据
 
 
 ## Blog && Tutorial
@@ -27,13 +25,11 @@ Awesome Font-end 😀 记录一些值得关注和收藏的前端领域内容
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines) JavaScript工程项目的一系列最佳实践策略
 
 
-
 ## Library
 
 一些实用的库
 
 - [Day.js](https://github.com/iamkun/dayjs) 和 Moment.js 一样的 API，却更加轻量的日期库
-
 
 
 ## Twitter
