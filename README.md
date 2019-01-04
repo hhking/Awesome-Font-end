@@ -72,4 +72,5 @@ Awesome Font-end 😀 记录一些值得关注和收藏的前端领域内容
 React 相关的一些组件、库、学习资料
 
 - [formik](https://github.com/jaredpalmer/formik) react 表单验证组件
+- [PrimeReact](https://github.com/primefaces/primereact) 丰富齐全的 react 组件库
 - [A Simple React Router v4 Tutorial](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)：前端框架 React 的路由库教程，提供在线代码运行示例，例子简洁能说明问题。
