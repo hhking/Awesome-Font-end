@@ -1,6 +1,6 @@
 # Awesome Font-end
-Awesome Font-end 😀 记录一些值得关注和收藏的前端领域内容
-
+Awesome Font-end 😀 
+学习加整理这个过程是非常耗时的, 所以记录一些值得关注和收藏的前端领域内容。便于快速查找和学习。
 
 ## Tools
 
@@ -15,6 +15,7 @@ Awesome Font-end 😀 记录一些值得关注和收藏的前端领域内容
 - [ProcessOn](https://www.processon.com/) 在线作图工具
 - [JSON Generator](https://www.json-generator.com/) 在线定制生成 JSON 格式的数据
 - [mkcert](https://github.com/FiloSottile/mkcert) mkcert 是一个零配置的签发本地证书的工具，用于开发环境，最大特色是可以签发 localhost 的证书。
+- [easy-mock](https://github.com/easy-mock/easy-mock) Easy Mock 是一个可视化，并且能快速生成模拟数据的持久化服务。可以使用在线服务，也可以自己搭建服务。
 
 
 ## Blog && Tutorial
@@ -67,6 +68,7 @@ Awesome Font-end 😀 记录一些值得关注和收藏的前端领域内容
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [DevTube](https://dev.tube/) 该网站收集 Youtube 上面的软件开发视频
 - [云谦早报](https://github.com/sorrycc/zaobao) watch 该仓库，在早上接收一些前端相关的资讯
+- [前端早报](https://github.com/wubaiqing/zaobao) 每日时报，会以前端技术体系为主要分享课题。可以订阅 RSS
 
 
 ## React
