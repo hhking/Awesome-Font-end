@@ -69,6 +69,7 @@ Awesome Font-end 😀
 - [DevTube](https://dev.tube/) 该网站收集 Youtube 上面的软件开发视频
 - [云谦早报](https://github.com/sorrycc/zaobao) watch 该仓库，在早上接收一些前端相关的资讯
 - [前端早报](https://github.com/wubaiqing/zaobao) 每日时报，会以前端技术体系为主要分享课题。可以订阅 RSS
+- [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) 收集中国程序员容易发音错误的单词
 
 
 ## React
