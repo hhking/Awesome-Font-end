@@ -79,3 +79,23 @@ React 相关的一些组件、库、学习资料
 - [formik](https://github.com/jaredpalmer/formik) react 表单验证组件
 - [PrimeReact](https://github.com/primefaces/primereact) 丰富齐全的 react 组件库
 - [A Simple React Router v4 Tutorial](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)：前端框架 React 的路由库教程，提供在线代码运行示例，例子简洁能说明问题。
+
+## 书单
+### JavaScript
+- [《JavaScript高级程序设计》](https://book.douban.com/subject/10546125/)
+- [《JavaScript语言精粹》](https://book.douban.com/subject/3590768/)
+- [《你不知道的JavaScript》（上中下）](https://read.douban.com/ebook/12051836/)
+    - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) 
+    - [你不懂JS](https://github.com/JoeHetfield/You-Dont-Know-JS)
+- [《ES6标准入门》](https://read.douban.com/ebook/35652061/)
+    - [ECMAScript 6 入门 在线](https://es6.ruanyifeng.com/) 
+- [《深入理解ES6》](https://book.douban.com/subject/27072230/)
+- [《JavaScript设计模式与开发实践》](https://book.douban.com/subject/26382780/)
+- [《React.js 小书》](http://huziketang.mangojuice.top/books/react/)
+- [《深入React技术栈》](https://book.douban.com/subject/26918038/)
+- [《React状态管理与同构实战》](https://book.douban.com/subject/30290509/)
+
+
+### CSS
+- [《CSS揭秘》](https://book.douban.com/subject/26745943/)
+- [《CSS世界》](https://book.douban.com/subject/27615777/)
